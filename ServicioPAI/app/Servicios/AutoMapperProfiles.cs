@@ -4,7 +4,7 @@ using ServicioPAI.Modelos;
 
 namespace ServicioPAI.Servicios
 {
-    public class AutoMapperProfiles: Profile
+    public class AutoMapperProfiles : Profile
     {
         public AutoMapperProfiles()
         {

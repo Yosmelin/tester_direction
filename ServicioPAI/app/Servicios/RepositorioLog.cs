@@ -1,9 +1,6 @@
-﻿using Dapper;
-using Microsoft.Data.SqlClient;
-using ServicioPAI.Entidades;
+﻿using Directions_Api.Helpers;
 using ServicioPAI.Helper;
-using ServicioPAI.Modelos;
-using System.Data;
+using System.Data.SqlClient;
 
 namespace ServicioPAI.Servicios
 {
